@@ -13,7 +13,7 @@ const words10 = ["your", "yourself"];
 const wordList = [words0, words1, words2, words3, words4, words5, words6, words7, words8, words9, words10];
 
 var createHighlight = document.createElement("style");
-createHighlight.innerHTML = "\n .badWord{ \n background-color:yellow; \nfont-weight: 800; \n} \n";
+createHighlight.innerHTML = "\n .badWord{ \n background-color:yellow; \nfont-weight:800; \ncolor:black \n} \n";
 document.head.appendChild(createHighlight);
 
 
