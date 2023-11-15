@@ -1,0 +1,2 @@
+# spellCheck
+ Tech120ShowMisspelledWords
